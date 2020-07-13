@@ -2,7 +2,7 @@
 
 在之前的开发中主要用的是vue-cli2，最近空闲时间比较多，接下来有新项目，本着偷懒的本能，自己打算搭建一个基础包以备后期开发应用，并对其进行性能优化和配置。
 
-该项目的GitHub：https://github.com/maqun520/vue-cli3-init  
+该项目的GitHub：https://github.com/maqun520/vue-cli3
 
 master分支为基础包，vi_mint_ui分支为优化后项目，可根据自己需要进行切换。
 
@@ -24,7 +24,7 @@ master分支为基础包，vi_mint_ui分支为优化后项目，可根据自己�
 
 * 创建项目
 
-git clone https://github.com/maqun520/vue-cli3-init
+git clone https://github.com/maqun520/vue-cli3
 
 * 运行项目
 ``` 
@@ -785,7 +785,7 @@ module.exports = {
 
 经过以上的所有骚操作，整个项目已经差不多完成了，接下来就靠兄弟们去开发业务和优化了。由于本人技术有限，有错误地方还望指出来，如果觉得对你有帮助麻烦点一下赞，或者个星，这是对我最大的帮助。后续打算再写一个项目的开发过程，自己成长也希望大家希望。有什么问题可以留言帮忙解决。
 
-最后附上该项目的GitHub：https://github.com/maqun520/vue-cli3-init 
+最后附上该项目的GitHub：https://github.com/maqun520/vue-cli3
 
 注：转载请带上文章出处，避免带来不必要麻烦。
 
