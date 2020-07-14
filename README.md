@@ -4,7 +4,7 @@
 
 该项目的GitHub：https://github.com/maqun520/vue-cli3
 
-master分支为基础包，vi_mint_ui分支为优化后项目，可根据自己需要进行切换。
+master分支为基础包，study分支为演讲的全局注册组件，render函数，高精度权限控制代码演示，可根据自己需要进行切换。
 
 搭建整个过程如下：
     
@@ -18,7 +18,7 @@ master分支为基础包，vi_mint_ui分支为优化后项目，可根据自己�
 * 常用util
 * 引入第三方UI框架
 * 配置vue.config.js文件
-* vue项目框架性能优化（重点） (v1_mint_ui分支)
+* vue项目框架性能优化（重点） (study分支)
 
 ### 1.项目初始化
 
