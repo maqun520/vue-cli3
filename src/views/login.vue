@@ -1,20 +1,16 @@
 <template>
 <div class="com">
-    <h1 class="com-item">大家好</h1>
-    <Child1></Child1>
-    <Child2></Child2>
+    <h1 class="com-item">我是login页面</h1>
 </div>
 </template>
 
 <script>
-// import Child1 from '../../components/child1.vue'
     export default {
-        name: "index",
+        name: "login",
         props: {
             msg: String
         },
         components: {
-            // Child1
         }
     }
 </script>
